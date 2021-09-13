@@ -2,7 +2,7 @@
 
 This is web project to check your location.
 
-![Screenshot of project](/yourlocation/img/Screenshot.png)
+![Screenshot of project](/img/Screenshot.png)
 
 ### Technologies
 - Vanilla Javascript
