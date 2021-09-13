@@ -6,7 +6,7 @@ This is web project to check your location.
 
 ### Technologies
 - Vanilla Javascript
-- Parce bundler
+- Parcel bundler
 - Leaflet.js
 - H5BP
 
